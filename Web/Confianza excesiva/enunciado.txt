@@ -1,0 +1,5 @@
+La aplicación muestra contenido distinto según la información que recibe del navegador.
+
+No siempre es buena idea confiar en lo que viene del lado del cliente.
+
+Requieres docker-compose para levantar el entorno.

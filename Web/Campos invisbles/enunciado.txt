@@ -1,0 +1,5 @@
+El formulario parece simple y solo pide información básica.
+
+Sin embargo, no todo lo que se envía es visible para el usuario final.
+
+Requieres docker-compose para levantar el entorno.

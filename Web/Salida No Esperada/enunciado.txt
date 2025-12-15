@@ -1,0 +1,5 @@
+Una aplicación web aparentemente simple, pensada solo para mostrar texto al usuario.
+
+Sin embargo, no todo lo que se envía debería ser interpretado por el servidor.
+
+Requieres docker-compose para levantar el entorno.

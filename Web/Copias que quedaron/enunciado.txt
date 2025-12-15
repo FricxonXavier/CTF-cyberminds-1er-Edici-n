@@ -1,0 +1,5 @@
+El sitio funciona correctamente y no muestra errores evidentes.
+
+Sin embargo, a veces quedan archivos que ya no deberían estar disponibles.
+
+Requieres docker-compose para levantar el entorno.

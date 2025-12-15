@@ -1,0 +1,5 @@
+El sitio parece simple y no muestra nada fuera de lo común.
+
+No todas las rutas están pensadas para ser vistas desde el menú principal, ni todas aparecen enlazadas.
+
+Requieres docker-compose para levantar el entorno.
