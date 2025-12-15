@@ -1,0 +1,9 @@
+Durante el análisis de un teléfono incautado se recuperó una base de datos perteneciente a una aplicación de mensajería interna. La estructura parece simple, pero algunos mensajes contienen datos fragmentados, notas sospechosas y valores que no corresponden a texto legible.
+
+Los analistas creen que la base de datos se utilizó para intercambiar información cifrada. Tu misión es reconstruir los fragmentos, identificar el método de cifrado y descubrir la clave oculta en los registros.
+
+Si no entiendes algo… busca la clave. Toda pista está dentro del archivo.
+
+Tu misión es examinar los registros, reconstruir los fragmentos, interpretar correctamente los valores numéricos, identificar el método de cifrado utilizado y recuperar el mensaje original.
+
+Nada está cifrado dos veces por casualidad. Si un valor no parece texto… tal vez no lo sea.

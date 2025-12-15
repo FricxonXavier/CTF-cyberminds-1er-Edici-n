@@ -1,0 +1,1 @@
+Un documento PDF fue recuperado durante el análisis de un incidente interno. A simple vista parece un informe normal, pero varios analistas reportan que el archivo ejecuta acciones no documentadas al abrirse.

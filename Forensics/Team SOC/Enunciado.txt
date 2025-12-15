@@ -1,0 +1,5 @@
+Se ha detectado actividad inusual en un servidor Linux.
+
+No hay binarios evidentes ni archivos claramente maliciosos, pero los rastros quedaron registrados en distintos logs del sistema.
+
+Analiza la evidencia, reconstruye lo ocurrido y encuentra el contenido de la flag.
