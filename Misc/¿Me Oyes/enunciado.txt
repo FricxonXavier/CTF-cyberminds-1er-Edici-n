@@ -1,0 +1,7 @@
+Un misterioso código QR fue encontrado junto a un cuaderno lleno de anotaciones. A escanearlo, escucharás un mensaje extraño…
+
+¿Puedes entender lo que dice realmente?
+
+Flag format: FIS{...}
+
+Los 2 QR redirigen al mismo archivo.

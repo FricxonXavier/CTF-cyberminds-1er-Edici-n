@@ -1,0 +1,3 @@
+Un horario universitario no siempre sirve solo para organizar clases.
+
+En el archivo proporcionado encontrarás el contenido de la flag. Tu tarea es descubrirlo y colocar el formato correcto.
