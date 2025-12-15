@@ -1,0 +1,3 @@
+Al parecer, una persona que actúa de forma anónima intenta colaborar con la investigación y ha enviado un nuevo archivo PCAP. La captura proviene de una de las aulas de informática del instituto.
+
+Pregunta: En el tráfico se observan varias tramas asociadas a una transferencia mediante FTP. Se nos solicita identificar el contenido del archivo que fue descargado, ya que resulta clave para continuar con la investigación.

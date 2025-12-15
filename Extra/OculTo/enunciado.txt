@@ -1,0 +1,4 @@
+Como práctica final del módulo de informática forense, el docente ha planteado un reto: recuperar el contenido de un mensaje que se encuentra oculto dentro del archivo Mensaje.zip. Para ello se dispone tanto de una captura de tráfico como del propio fichero.
+
+¿Serás capaz de superar el módulo?
+

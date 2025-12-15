@@ -1,0 +1,3 @@
+Se ha conseguido acceder al ordenador de D. Furioso y extraer el contenido de su carpeta de correos electrónicos. Analiza los mensajes y localiza la información relacionada con un incidente que sufrió D. Furioso.
+
+Indica cuál es la matrícula del vehículo de D. Furioso.

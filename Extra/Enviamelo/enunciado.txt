@@ -1,0 +1,5 @@
+En un laboratorio de informática descubres un ordenador apagado con una nota adhesiva pegada en un costado que dice: “/root/Desktop/reto36/reversesecret – Resolver usando técnicas de ingeniería inversa”. Decides encender el equipo, un antiguo Pentium que aún funciona, y copias el archivo a tu propio sistema para analizarlo con mayor comodidad, dando inicio al reto.
+
+En la parte posterior del post-it se lee: “Enviar la flag a mi número personal, habrá recompensa”.
+
+¿Qué requisitos debe cumplirse para que este binario muestre la flag?

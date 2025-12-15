@@ -1,0 +1,3 @@
+La información perteneciente al equipo del director ha sido sustraída nuevamente, esta vez mediante un canal DNS. Para evitar su detección, el atacante ocultó y ofuscó todo el procedimiento.
+
+¿Serías capaz de recuperar los datos que fueron exfiltrados?

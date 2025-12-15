@@ -1,0 +1,5 @@
+Un sistema crítico fue respaldado poco antes de que ocurriera un incidente interno. No hay alertas claras, no hay logs legibles y no hay evidencia directa de compromiso.
+
+Solo quedaron algunos artefactos técnicos, nada parece fuera de lugar… pero algo no encaja.
+
+Tu misión es analizar cuidadosamente los artefactos

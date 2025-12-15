@@ -1,0 +1,1 @@
+Un funcionario de la administración dejó olvidada una memoria USB sobre la mesa de la sala de usos múltiples. Al revisarla, se encontró en su interior un script de PowerShell ofuscado. ¿Serías capaz de examinarlo y determinar qué información oculta?

@@ -1,0 +1,7 @@
+Esta máquina expendedora solo acepta criptomonedas. Por suerte, conseguí este increíble bytecode. ¿Crees que me ayudará a picar algo?
+
+0x61951d636063eb0c04613b83346063613f7260b4080203602c611af3026107a4526207d0b961ab52016107c75262026a8561952d18620881ba526107c7516107a4510214604857ff00
+
+Encuentra el valor de la llamada en hexadecimal (minúsculas).
+
+Formato de la bandera: FIS{0xdeadbeef}

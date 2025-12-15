@@ -1,0 +1,1 @@
+No encontrarás la flag en texto plano ni una comparación directa. Para resolver este reto será necesario analizar el binario, entender su lógica interna y reproducir su comportamiento.

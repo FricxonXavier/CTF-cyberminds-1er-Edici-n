@@ -1,0 +1,1 @@
+Un amigo nos ha facilitado un archivo cofre.pyc junto con algunos fragmentos de su código. Al ejecutarlo, el programa solicita una contraseña que nuestro amigo no ha revelado, y sin ella no funciona correctamente. Ojo, porque el reto tiene un toque bastante troll.
