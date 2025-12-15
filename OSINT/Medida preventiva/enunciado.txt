@@ -1,0 +1,9 @@
+La imagen corresponde a un médico del siglo XIX cuyas ideas no fueron aceptadas de inmediato.
+
+Sin embargo, una práctica introducida por él logró reducir drásticamente la tasa de mortalidad en las clínicas donde se aplicó, pasando de alrededor del 30% a menos del 2%.
+
+Investiga quién fue esta persona y determina cuál fue la práctica que permitió ese cambio significativo.
+
+Envía la respuesta en el formato:
+
+FIS{práctica_que_implemento}

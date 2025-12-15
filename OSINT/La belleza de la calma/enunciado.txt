@@ -1,0 +1,9 @@
+La imagen corresponde a un sitio real frecuentado por viajeros y visitantes.
+
+El lugar mostrado no es el objetivo final.
+
+Investiga su ubicación, analiza el contexto y determina qué destino natural es conocido por estar muy cerca.
+
+Envía la respuesta en el formato:
+
+FIS{minisculas1_minusculas2}
