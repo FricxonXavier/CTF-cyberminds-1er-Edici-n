@@ -1,0 +1,5 @@
+Durante una misión secreta, uno de los ANBU dejó una nota cifrada en hexadecimal. Parece un simple mensaje encriptado, pero Kakashi sospecha que hay un genjutsu digital involucrado.
+
+Al parecer, la flag fue protegida con una técnica muy común… pero solo los shinobis que dominan los números podrán verla con claridad.
+
+¿Puedes romper el Genjutsu y revelar la verdadera flag?

@@ -1,0 +1,3 @@
+En Konoha se está desarrollando una bebida energética especial para los exámenes Chunin. La fórmula final se mantiene en secreto, pero sabemos que un ninja filtró el sabor elegido en un documento llamado lemon.pdf.
+
+El problema: el archivo ha sido protegido mediante técnicas poco comunes... ¿Serás capaz de descubrir el ingrediente secreto del nuevo zumo de chakra?

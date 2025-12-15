@@ -1,0 +1,5 @@
+Durante una misión de reconocimiento en los Archivos Ninja, Naruto encontró una imagen antigua del Primer Hokage. A simple vista parece una pintura sin importancia… pero algo en ella no cuadra.
+
+Kakashi cree que alguien ha ocultado información crítica entre los píxeles.
+
+¿Podrás encontrar la flag escondida entre los colores?
