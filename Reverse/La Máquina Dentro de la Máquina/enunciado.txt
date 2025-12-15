@@ -1,0 +1,1 @@
+Durante un análisis forense se recuperó un ejecutable desconocido. A simple vista parece un programa inofensivo: muestra un mensaje trivial y termina.

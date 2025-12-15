@@ -1,0 +1,3 @@
+Algunos binarios intentan ocultar la flag usando técnicas sencillas pero efectivas. En su interior, las piezas están ahí… desordenadas, mezcladas y esperando a ser analizadas.
+
+¿Puedes descubrir cómo se ensamblan y revelar la flag completa?
