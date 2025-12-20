@@ -1,0 +1,13 @@
+La imagen fue tomada en un entorno natural.
+
+No contiene coordenadas visibles
+ni referencias textuales claras,
+pero el lugar puede ser identificado
+con investigación y análisis cuidadoso.
+
+Encuentra el nombre correcto del lugar en google maps
+y envíalo en el formato:
+
+FIS{Ejemplo_del_ejemplo}
+
+separado por "_" y sin tildes
