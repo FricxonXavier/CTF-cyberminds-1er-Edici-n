@@ -1,0 +1,54 @@
+/login.php USER: root - PASSWORD: I04mhfia - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: admin - PASSWORD: BlEnlfia - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: test - PASSWORD: C044j+ea - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: guest - PASSWORD: HEgg6g== - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: info - PASSWORD: DkwxlJ8= - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: adm - PASSWORD: DE46k/DzoQ0uGgXn - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: mysql - PASSWORD: DkU9kPzjtgE0CH0= - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: user - PASSWORD: Ck09lJ8= - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: administrator - PASSWORD: IVQ4jPT93w== - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: oracle - PASSWORD: CUQhh/zxoWI= - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: ftp - PASSWORD: CkYxk+HxpmI= - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: pi - PASSWORD: HlQ1jZ8= - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: puppet - PASSWORD: HEgg6g== - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: ansible - PASSWORD: CU01h+7UmzsFXA+LAScdtQRrcxssJhs= - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: ec2-user - PASSWORD: AkAglPzj3w== - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: vagrant - PASSWORD: PEQw6g== - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER: azureuser - PASSWORD: HVQgkuD93w== - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
+/login.php USER:  - PASSWORD:  - ACCESS SUCCESSFUL.
+[DEBUG] Password encrypted with RC4.
+
