@@ -1,4 +1,0 @@
-Audit complete.
-No sensitive data found on disk.
-Memory was volatile.
-Trust what is not mounted.
